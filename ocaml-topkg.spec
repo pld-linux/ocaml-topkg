@@ -42,7 +42,7 @@ informacji o procedurze dystrybucji, tworzenia i publikacji pakietu.
 
 %package devel
 Summary:	Topkg - the transitory OCaml software packager - development part
-Summary(pl.UTF-8):	Topkg - przejściowe narzędzie do pakowania oprogramowania w OCamlu - cześć programistyczna
+Summary(pl.UTF-8):	Topkg - przejściowe narzędzie do pakowania oprogramowania w OCamlu - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
