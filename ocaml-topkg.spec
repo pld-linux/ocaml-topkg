@@ -14,7 +14,7 @@ Summary:	Topkg - the transitory OCaml software packager
 Summary(pl.UTF-8):	Topkg - przejściowe narzędzie do pakowania oprogramowania w OCamlu
 Name:		ocaml-topkg
 Version:	1.0.3
-Release:	1
+Release:	2
 License:	ISC
 Group:		Libraries
 Source0:	https://erratique.ch/software/topkg/releases/topkg-%{version}.tbz
